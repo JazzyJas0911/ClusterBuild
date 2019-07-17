@@ -1,0 +1,22 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.59.3 kryptoni
+192.168.95.1 ekryptoni e1
+192.168.95.2 ekrypton2 e2
+192.168.95.3 ekrypton3 e3
+192.168.95.4 ekrypton4 e4
+192.168.95.5 ekrypton5 e5
+
+192.168.124.1 krypton1 h1
+192.168.124.2 krypton2 h2
+192.168.124.3 krypton3 h3
+192.168.124.4 krypton4 h4
+192.168.124.5 krypton5 h5
+
+192.168.96.1 pkryptoni p1
+192.168.96.2 pkrypton2 p2
+192.168.96.3 pkrypton3 p3
+192.168.96.4 pkrypton4 p4
+192.168.96.5 pkrypton5 p5
+
+192.168.59.4 radoni
